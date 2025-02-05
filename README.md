@@ -1,1 +1,2 @@
 ![image](https://github.com/user-attachments/assets/d9e806cb-fe44-4591-8a1e-b577e95249cf)
+While Ethereum, BNB Chain, and Solana are gaining attention, Bitcoin's enduring market dominance is evident. Despite a decrease from its peak of 60-70% dominance, Bitcoin remains a force to be reckoned with. This speaks to the strong belief of Bitcoin HODLers, highlighting its position as a robust digital currency rather than an expansive platform like Ethereum

@@ -95,5 +95,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ---
 
 For any questions or feedback, feel free to open an issue or contact the repository owner.
-![Visitor Count](https://komarev.com/ghpvc/?username=bbrowne1&color=blue)
+![Visitor Count](https://komarev.com/ghpvc/?username=bbrowne1&repo=Bitcoin-price-analysis&color=blue)
+
 
